@@ -36,7 +36,7 @@ Options:
   -q, --quality       Quality of the image compression (default: 60)
 ```
 
-Run the script from the command line, specifying the source and destination directories, and optionally, the quality of compression (default is 80):
+Run the script from the command line, specifying the source and destination directories, and optionally, the quality of compression (default is 60):
 ```bash
 minify-images -s <source-directory> -d <destination-directory> -q <quality>
 ```
